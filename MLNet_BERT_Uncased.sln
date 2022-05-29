@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLNet_BERT_Uncased", "MLNet_BERT_Uncased\MLNet_BERT_Uncased.csproj", "{02E5A692-62E0-4CF7-BC9D-9CE2A0D93C30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02E5A692-62E0-4CF7-BC9D-9CE2A0D93C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E5A692-62E0-4CF7-BC9D-9CE2A0D93C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E5A692-62E0-4CF7-BC9D-9CE2A0D93C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E5A692-62E0-4CF7-BC9D-9CE2A0D93C30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2C9DF77-FCB0-46B7-A446-4637185D3221}
+	EndGlobalSection
+EndGlobal
